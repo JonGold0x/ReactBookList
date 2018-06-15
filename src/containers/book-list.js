@@ -22,7 +22,7 @@ class BookList extends Component {
       <ul className="list-group col-sm-4">
         {this.renderList()}
       </ul>
-    )
+    );
   }
 }
 
