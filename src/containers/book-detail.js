@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-<<<<<<< HEAD
-=======
 import { connect } from "react-redux";
->>>>>>> 717cb36e5f4fb4e30a434532b8efdc68b61896bc
 
 class BookDetail extends Component {
   render() {
